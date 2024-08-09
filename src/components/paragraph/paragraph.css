@@ -1,0 +1,9 @@
+.component{
+    width: 92%;
+    background-color: rgb(30, 30, 30);
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 15px;
+    text-align: center;
+}
