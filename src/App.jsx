@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
-import Paragraph from './components/paragraph/Paragraph'
-import Button from './components/button/button'
+import Paragraph from './components/StyleText'
+import Button from './components/AlertButton'
 
 function App(){
   return(
